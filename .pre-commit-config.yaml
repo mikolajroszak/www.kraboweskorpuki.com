@@ -1,3 +1,6 @@
+- name: Run Playwright tests
+  uses: microsoft/playwright-github-action@v1.4.4
+
 repos:
 -   repo: https://github.com/python/black
     rev: 19.3b0
