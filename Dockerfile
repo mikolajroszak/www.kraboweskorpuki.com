@@ -1,5 +1,5 @@
 # Based off of python:3.6-slim, except that we are using ubuntu instead of debian.
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 
 # ensure local python is preferred over distribution python
